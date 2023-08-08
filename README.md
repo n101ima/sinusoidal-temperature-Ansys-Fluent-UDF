@@ -31,4 +31,4 @@ It calculates the dimensionless length of the face centroid in the x-direction u
 It calculates the sinusoidal temperature at the face f using F_PROFILE and sets it to 300 + sin(2pib).
 It ends the face loop.
 
-The UDF can be used to model heat transfer problems with periodic boundary conditions, such as heat exchangers, oscillating heat pipes, or solar collectors. The UDF also demonstrates how to use macros, arrays, and mathematical functions in Fluent UDFs.
+The UDF can be used to model heat transfer problems with periodic boundary conditions, such as heat exchangers, oscillating heat pipes, or solar collectors.
